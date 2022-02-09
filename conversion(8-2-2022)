@@ -1,0 +1,7 @@
+km=int(input("km"))
+cm=100000*km;
+print(cm)
+
+output:
+km 1
+100000
